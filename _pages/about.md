@@ -8,10 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>R5-70, Paris School of Economics</p>
-    <p>48 Boulevard Jourdan</p>
-    <p>Paris 75014, France</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
