@@ -16,14 +16,13 @@
 [![Docker Image Size](https://img.shields.io/docker/image-size/amirpourmand/al-folio?sort=date&label=docker%20image%20size&color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
 [![Docker Pulls](https://img.shields.io/docker/pulls/amirpourmand/al-folio?color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
 
-A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
-If you like the theme, give it a star!
+A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics. Hello, world.
 
 [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
 
 ## User community
 
-The vibrant community of **al-folio** users is growing!
+The vibrant community of **al-folio** users is growing! Hello.
 Academics around the world use this theme for their homepages, blogs, lab pages, as well as webpages for courses, workshops, conferences, meetups, and more.
 Check out the community webpages below.
 Feel free to add your own page(s) by sending a PR.
