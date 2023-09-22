@@ -22,7 +22,7 @@ A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academ
 
 ## User community
 
-The vibrant community of **al-folio** users is growing!
+The vibrant community of **al-folio** users is growing! Hello.
 Academics around the world use this theme for their homepages, blogs, lab pages, as well as webpages for courses, workshops, conferences, meetups, and more.
 Check out the community webpages below.
 Feel free to add your own page(s) by sending a PR.
