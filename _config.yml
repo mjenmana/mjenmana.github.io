@@ -71,7 +71,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: mjenmana # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: mjenmana # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -97,7 +97,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
-spotify_id: # your spotify id
+spotify_id: 21rhsf4fniboh6a2wfqsur7hi # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
@@ -107,8 +107,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: Feel free to reach me at thanasak[dot]jenmana[at]psemail.eu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
