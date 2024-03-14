@@ -39,34 +39,21 @@
       year: 2020 – 
     - title: Research fellow
       institution: World Inequality Lab
-      year: 2018 –
-    - title: Research assistant
-      institution: Fondation France-Japon (FFJ), EHESS
-      year: 2017 - 2018
-    - title: Research assistant
-      institution: CEPREMAP
-      year: 2017 - 2018
-    - title: Researcher
-      institution: Thailand Development Research Institute (TDRI)
-      year: 2015 - 2016
-    - title: Intern
-      institution: United Nations Office on Drugs and Crime (UNODC), Regional Office for Southeast Asia and the Pacific
-      year: 2016
+      year: 2018 – 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023 –
+    - year: 2023
       items: 
         - Full PhD grant, Thammasat University
-    - year: 2019 – 2020
+    - year: 2019 - 2020
       items: 
         - Bourse du Gouvernement Français (BGF) for doctoral programme
-    - year: 2016 – 2018
+    - year: 2016 - 2018
       items:
         - Bourse du Gouvernement Français (BGF) for masters programme
 
 - title: Other Interests
   type: list
   contents:
-    - Film photography
-    - Guitar
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
