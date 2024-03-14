@@ -1,0 +1,59 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Thanasak Jenmana
+    - name: Date of Birth
+      value: 24 October 1994
+    - name: Languages
+      value: Thai (Native), English (Fluent), French (Intermediate)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Economics
+      institution: Paris School of Economics
+      year: 2023 –
+      description:
+        - <b>Thesis:</b> Essays on political economy of Thailand and Southeast Asia
+        - <b>Fields:</b> political economy, economic history
+        - <b>Advisor:</b> Thomas Piketty
+    - title: Masters in Economics
+      institution: Paris School of Economics
+      year: 2018
+      description:
+        - <b>Thesis:</b> Income Inequality, Political Instability, and the Thai Democratic Struggle
+        - <b>Advisors:</b> Facundo Alvaredo and Thomas Piketty
+    - title: Bachelor in Economics
+      institution: Faculty of Economics, Thammasat University
+      year: 2015
+      description:
+        - <b>Thesis:</b> Returns on school inputs&#58; the case of Thailand
+        - <b>Advisor:</b> Phatta Kirdruang
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Faculty lecturer
+      institution: Faculty of Economics, Thammasat University
+      year: 2020 – 
+    - title: Research fellow
+      institution: World Inequality Lab
+      year: 2018 – 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Full PhD grant, Thammasat University
+    - year: 2019 - 2020
+      items: 
+        - Bourse du Gouvernement Français (BGF) for doctoral programme
+    - year: 2016 - 2018
+      items:
+        - Bourse du Gouvernement Français (BGF) for masters programme
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
