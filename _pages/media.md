@@ -62,6 +62,7 @@ toc:
 
 
 #### **Open letters**
+ - [การตรวจสอบการควบรวมกิจการทรู-ดีแทค.](https://thestandard.co/sign-petition-requesting-nbtc-nrct-verify-true-dtac-merger-deal/) Dec 2021.
  - [มหาวิทยาลัยต้องเป็นพื้นที่สำหรับการตั้งคำถามและแสวงหาทางออกร่วมกันอย่างสันติของสังคม.](https://thematter.co/brief/brief-1597298950/120278) Aug 2020.
  - ["ธรรมศาสตร์จะไม่ทน": อาจารย์มหาวิทยาลัยกว่า 140 คนออกแถลงการณ์ชี้ข้อเสนอปฏิรูปสถาบันกษัตริย์ไม่ผิดกฎหมาย.](https://www.bbc.com/thai/thailand-53748467) Aug 2020.
  - [หากไม่มีเสรีภาพจากความอดอยากและความทุกข์ทน (Freedom from hunger and miseries) ย่อมไม่มีสุขภาพที่ดี.](https://prachatai.com/journal/2020/04/87209) Apr 2020.
