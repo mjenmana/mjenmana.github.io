@@ -6,11 +6,8 @@ description:
 nav: true
 nav_order: 5
 ---
-
-#### EE406: Contemporary economic issues
-**Semester**: 1-2/2021, 1-2/2020
-
-**Course description**: This undergraduate course is a general introduction to the subject matter and methods of economics, through the investigation of specific contemporary economic issues such as economic growth, inequality, poverty, and environmental deterioration. The focus also is on how economists address these issues.
+## Faculty of Economics, Thammasat University
+##### *Undergraduate level*
 
 ---
 #### EE461: Development microeconomics
@@ -23,6 +20,11 @@ nav_order: 5
 **Semester**: 1/2022, 2/2021
 
 **Course description**: The model of joint equilibrium in product markets, money markets, and foreign exchange markets (the IS-LM-BP model); changes in equilibrium; product markets and labor markets; the model of aggregate supply and demand in closed and open economies; inflation, unemployment, and the Phillips curve; economic stabilization policies; growth theory, new Keynesian economic theory; the real business cycle theory; applications of macroeconomic theory to analyze economic situations.
+
+---
+#### EE406: Contemporary economic issues
+**Semester**: 1-2/2021, 1-2/2020
+
 
 ---
 #### EE212: Principles of Macroeconomics
