@@ -8,7 +8,9 @@ category: work
 related_publications: Jenmana2018, Jenmana2019
 ---
 
-This project re-examines the dynamics of income inequality in Thailand from 1975. The main motivation lies in the lack of information on the richest citizens in household surveys, which can lead to a significant underestimation of the inequality level and to an inaccurate representation of the historical trend.
+This project re-examines the dynamics of economic inequality in Thailand from 1975. The main motivation lies in the lack of information on the richest citizens in household surveys, which can lead to a significant underestimation of the inequality level and to an inaccurate representation of the historical trend.
+
+To deal with micro- and macro-level data gaps, administrative data (tax data in this case) and national accounts are utilised for a more consistent distributional series.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
