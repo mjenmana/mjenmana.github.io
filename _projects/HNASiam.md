@@ -8,7 +8,7 @@ category: research
 related_publications: false
 ---
 
-A renewed attempt at reconstructing the Siamese Historical National Accounts (HNA).
+A renewed attempt at reconstructing the Siamese Historical National Accounts (HNA) from 1855-1950.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/mpd2020_SEAsia.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
