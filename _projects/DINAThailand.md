@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DINA Thailand
+title: Thailand DINA
 description: Income and wealth distribution
 img: assets/img/capshare.jpg
 importance: 1
