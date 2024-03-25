@@ -12,6 +12,7 @@ toc:
 
 #### **Conferences & presentations**
 2023
+ - [UPCOMING!] Income Inequality in Thailand, 1975-2021: Evidence from Distributional National Accounts. WIL Internal Seminar.
  - [New Labour Regimes in Southeast Asia: bringing labour back in Southeast Asian studies.](https://www.gis-reseau-asie.org/sites/gisasie/files/2023-12/PenangConf%202023%20Concept%20Paper.pdf) CNRS, USM. Penang, Malaysia. [*See programme*](https://docs.google.com/spreadsheets/d/1-orh-2Lao_BedYwZ-IQ-WAR2VJ7nrZhJBguDroMGdvs/edit?usp=sharing)
  - [Understanding Global Inequality and Insights from the World Inequality Report 2022.](https://greennetwork.asia/news/brin-hosted-a-public-discussion-on-understanding-global-inequality/) National Research and Innovation Agency (BRIN), Indonesia.
  - [Research and Policy Dialogue #1 :“โฉมหน้าใหม่ของความเหลื่อมล้ำ.](https://www.the101.world/research-and-policy-dialogue-1-inequality/) 101 Public Policy Think Tank. Bangkok, Thailand.
