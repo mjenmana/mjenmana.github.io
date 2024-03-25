@@ -4,7 +4,7 @@ title: DINA Thailand
 description: Income and wealth distribution
 img: assets/img/capshare.jpg
 importance: 1
-category: work
+category: research
 related_publications: Jenmana2018, Jenmana2019
 ---
 
