@@ -39,6 +39,7 @@ toc:
 ---
 #### **Media**
 2023
+ - [Thaïlande : l’espoir prudent d’un renouveau démocratique.](https://www.la-croix.com/Monde/Thailande-lespoir-prudent-dun-renouveau-democratique-2023-05-14-1201267253) La Croix.
  - [16 ความคิดเพื่อชีวิตคนไทย: สิ่งที่เป็น ปัญหาที่เห็น และประเด็นชวนคิด. ความเหลื่อมล้ำทางเศรษฐกิจไทย: การกระจายประโยชน์ที่ขาดความเป็นธรรม.](https://www.pier.or.th/abridged/2023/09/) Puey Ungphakorn Institute for Economic Research, Bank of Thailand. 
 
 2021
