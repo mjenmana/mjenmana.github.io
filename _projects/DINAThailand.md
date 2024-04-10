@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Thailand DINA
-description: Income and wealth distribution
-img: assets/img/capshare.jpg
+title: Distributional National Accounts&#58; Thailand
+description: 1970-2023
+img: assets/img/DINAThailand/LabCapSh_NA_2.jpg
 importance: 1
 category: research
 related_publications: Jenmana2018, Jenmana2019

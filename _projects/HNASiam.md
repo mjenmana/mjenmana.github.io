@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Siam HNA
-description: Reconstructing Siamese NA
+title: Historical National Accounts of Siam
+description: 1855-1950
 img: assets/img/bkkcalendar.jpg
 importance: 1
 category: research
