@@ -14,9 +14,9 @@ To deal with micro- and macro-level data gaps, administrative data (tax data in 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/capshare.jpg" title="Capital and Labour share in Thailand, 1970-2019" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DINAThailand/LabCapSh_NA_2.jpg" title="Capital and Labour share in Thailand, 1960-2019" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Capital and labour shares in Thailand, 1970-2019. Data from author based on the National Accounts (NESDC) and Jetin (2012)
+    Capital and labour shares in Thailand, 1960-2019. Data from author based on the National Accounts (NESDC) and Jetin (2012)
 </div>
