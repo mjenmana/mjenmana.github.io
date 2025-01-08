@@ -6,7 +6,7 @@
     - name: Languages
       value: Thai (Native), English (Fluent), French (Intermediate)
     - name: Coding languages
-      value: Stata, R, Python, neovim, html
+      value: Stata, R, Python, neovim
 
 - title: Education
   type: time_table
@@ -36,7 +36,7 @@
   contents:
     - title: Faculty lecturer
       institution: Faculty of Economics, Thammasat University
-      year: 2020 – 
+      year: 2020 –
     - title: Research fellow
       institution: World Inequality Lab
       year: 2018 –
@@ -55,16 +55,16 @@
 
 - title: Referee activities
   type: list
-  contents: 
+  contents:
     - Asian Development Review
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023 –
-      items: 
+      items:
         - Full PhD grant, Thammasat University
     - year: 2019 – 2020
-      items: 
+      items:
         - Bourse du Gouvernement Français (BGF) for doctoral programme
     - year: 2016 – 2018
       items:
