@@ -6,7 +6,7 @@
     - name: Languages
       value: Thai (Native), English (Fluent), French (Intermediate)
     - name: Coding languages
-      value: Stata, R, Python, markdown
+      value: Stata, R, Python, Markdown
 
 - title: Education
   type: time_table
