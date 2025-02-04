@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br/>
-ธนสักก์ เจนมานะ เป็นนักศึกษาระดับปริญญาเอกที่ [Paris School of Economics](https://www.parisschoolofeconomics.eu/fr/jenmana-thanasak) research fellow ที่[ศูนย์วิจัยความเหลื่อมล้ำโลก (World Inequality Lab)](http://wid.world) และเป็นอาจารย์ประจำ[คณะเศรษฐศาสตร์](https://www.econ.tu.ac.th) [มหาวิทยาลัยธรรมศาสตร์](https://www.tu.ac.th)
+ธนสักก์ เจนมานะ เป็นนักศึกษาระดับปริญญาเอกที่ [Paris School of Economics](https://www.parisschoolofeconomics.eu/fr/jenmana-thanasak) research fellow ที่[ศูนย์วิจัยความเหลื่อมล้ำโลก (World Inequality Lab)](http://wid.world) อาจารย์ประจำ[คณะเศรษฐศาสตร์](https://www.econ.tu.ac.th) [มหาวิทยาลัยธรรมศาสตร์](https://www.tu.ac.th) และอาจารย์พิเศษที่ SciencesPo
 
 ธนสักก์มีความสนใจทางวิชาการในด้านเศรษฐศาสตร์สาธารณะ เศรษฐศาสตร์การเมือง และประวัติศาสตร์เศรษฐกิจ
 
