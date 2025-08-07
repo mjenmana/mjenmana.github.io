@@ -13,6 +13,7 @@ toc:
 
 2025
 
+- [World Economic History Congress 2025](https://wehc2025.com). Lund, Sweden.
 - [Workshop on Inequality and Labour Shares in Southeast Asia: An Analytical and Comparative Perspective.](https://www.parisschoolofeconomics.eu/en/events/inequality-and-labour-shares-in-southeast-asia/) Joint CNRS-WIL workshop.
 - Historical National Accounts of Siam, 1855-1950. Joint PSE-LSE workshop on Economic History.
 
