@@ -51,7 +51,7 @@ Important debates on the Thai economy, as well as the 1997 Asian Financial Crisi
 
 ---
 
-##### EE320: Mathemathical Economics
+##### EE320: Mathematical Economics
 
 **Semester**: 1/2022, 1/2021
 
