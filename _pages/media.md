@@ -11,6 +11,12 @@ toc:
 
 #### **Conferences & presentations**
 
+2026
+
+- World Inequality Conference 2026. Paris, France.
+- CAPHIST workshop in Economic History. Madrid, Spain.
+- WIL Internal Seminar. Paris, France.
+
 2025
 
 - [World Economic History Congress 2025](https://wehc2025.com). Lund, Sweden.
