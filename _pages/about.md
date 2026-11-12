@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <br/>
-ธนสักก์ มาร์ค เจนมานะ เป็นนักศึกษาระดับปริญญาเอกที่ [Paris School of Economics](https://www.parisschoolofeconomics.eu/fr/jenmana-thanasak) research fellow ที่[ศูนย์วิจัยความเหลื่อมล้ำโลก (World Inequality Lab)](http://wid.world) อาจารย์ประจำ[คณะเศรษฐศาสตร์](https://www.econ.tu.ac.th) [มหาวิทยาลัยธรรมศาสตร์](https://www.tu.ac.th) และสมาชิกศูนย์วิจัยความเหลื่อมล้ำแและนโยบายสังคม ([CRISP](https://www.facebook.com/CRISP.Thammasat/))
+ธนสักก์ มาร์ค เจนมานะ เป็นนักศึกษาระดับปริญญาเอกที่ [Paris School of Economics](https://www.parisschoolofeconomics.eu/fr/jenmana-thanasak) research fellow ที่[ศูนย์วิจัยความเหลื่อมล้ำโลก (World Inequality Lab)](http://wid.world) อาจารย์ประจำ[คณะเศรษฐศาสตร์](https://www.econ.tu.ac.th) [มหาวิทยาลัยธรรมศาสตร์](https://www.tu.ac.th) และสมาชิกศูนย์วิจัยความเหลื่อมล้ำและนโยบายสังคม ([CRISP](https://www.facebook.com/CRISP.Thammasat/))
 
 ธนสักก์มีความสนใจทางวิชาการในด้านเศรษฐศาสตร์สาธารณะ เศรษฐศาสตร์การเมือง และประวัติศาสตร์เศรษฐกิจ
 
